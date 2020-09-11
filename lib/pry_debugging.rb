@@ -1,4 +1,4 @@
-plus_two()
+plus_two(number)
 
 end
 
