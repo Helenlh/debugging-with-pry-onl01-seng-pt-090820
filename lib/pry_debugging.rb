@@ -1,4 +1,4 @@
-plus_two(number)
+def plus_two(number)
 
 end
 
