@@ -1,5 +1,5 @@
-def plus_two(number)
-puts (number + 2)
-number 
+def plus_two(num)
+puts (num + 2)
+num
 end
 
